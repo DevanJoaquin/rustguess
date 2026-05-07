@@ -30,6 +30,6 @@ Use a random secret by using the kernel RNG, such as `kernel::random::getrandom`
 
 ## License
 
-"Licensed GPL-2.0 to match the Linux kernel"
+Licensed GPL-2.0 to match the Linux kernel
 
 
