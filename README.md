@@ -27,3 +27,9 @@ Use a random secret by using the kernel RNG, such as `kernel::random::getrandom`
 ## Demo
 
 [Watch the rustguess demo on asciinema](https://asciinema.org/a/hboPquKKZx7nLdF3)
+
+## License
+
+"Licensed GPL-2.0 to match the Linux kernel"
+
+
