@@ -23,3 +23,7 @@ sudo cat /dev/rustguess
 ## Future Work
 
 Use a random secret by using the kernel RNG, such as `kernel::random::getrandom`, to pick a fresh secret at module load.
+
+## Demo
+
+[Watch the rustguess demo on asciinema](https://asciinema.org/a/hboPquKKZx7nLdF3)
